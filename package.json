@@ -1,0 +1,24 @@
+{
+  "name": "hexo-tag-kbd",
+  "version": "0.0.1",
+  "description": "Displays the keycaps in your hexo post/page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamiya555/hexo-tag-kbd.git"
+  },
+  "keywords": [
+    "hexo",
+    "keyboard",
+    "keycap"
+  ],
+  "author": "KAMIYA555",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamiya555/hexo-tag-kbd/issues"
+  },
+  "homepage": "https://github.com/kamiya555/hexo-tag-kbd#readme"
+}
