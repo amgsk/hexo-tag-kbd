@@ -10,6 +10,7 @@ hexo.extend.tag.register('kbd', function(args, content) {
             + "padding:1px 5px;";
 
   var key = args[0];
+  console.log(key.toLowerCase())
   switch (key.toLowerCase()) {
     case "enter":
       key += "↵";
